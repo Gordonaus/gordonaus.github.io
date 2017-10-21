@@ -39,13 +39,7 @@
 36. Antipodean Medical
 37. Optim Control
 38. iCare24
-
-## Spaces
-1. Production Hub
-2. INNX
-3. DASH
-5. Eighteen04
-6. The Roost Creative
+39. Liftango
 
 ## Meetups and Events
 1. Lunaticks LIVE
@@ -60,6 +54,14 @@
 2. Regional Incubator Program
 3. Icon
 4. Slingshot
+
+## Spaces
+1. Production Hub
+2. INNX
+3. DASH
+5. Eighteen04
+6. The Roost Creative
+7. Three76
 
 ## Investor Groups
 1. Hunter Angels
