@@ -16,12 +16,44 @@
 13. BYKKO
 14. itsFound
 15. Employs
+16. Fernlawn Environmental
+17. Granite Power
+18. Newie Ventures
+19. OmniCarbon
+20. Batrium
+21. BestPark
+22. Rapid Phenotyping
+23. Applied Virtual Simulation
+24. Fermech
+25. BarTV
+26. Airsight Australia
+27. Deckee
+28. Virtual perspective
 
 ## Spaces
 1. Production Hub
 2. INNX
 3. DASH
-5. 
+5. Eighteen04
+6. The Roost Creative
+
+## Meetups and Events
+1. Lunaticks LIVE
+2. Innovators Lunch
+3. IOT Pioneers
+4. IQ Talk
+5. Pitch Night
+6. NEWi Awards for Digital Creativity
+
+## Incubators and Accelerators
+1. Start House 100
+2. Regional Incubator Program
+3. Icon
+4. Slingshot
+
+## Investor Groups
+1. Hunter Angels
+2. Regional Angels
 
 
 You can use the [editor on GitHub](https://github.com/Gordonaus/gordonaus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
