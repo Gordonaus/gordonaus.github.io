@@ -42,12 +42,12 @@
 39. Liftango
 
 ## Meetups and Events
-1. [Lunaticks LIVE] (http://www.thelunatickssociety.com.au)
+1. [Lunaticks LIVE](http://www.thelunatickssociety.com.au)
 2. Innovators Lunch
 3. IOT Pioneers
 4. IQ Talk
 5. Pitch Night
-6. [NEWi Awards for Digital Creativity] (http://www.thelunatickssociety.com.au)
+6. [NEWi Awards for Digital Creativity](http://www.thelunatickssociety.com.au)
 
 ## Incubators and Accelerators
 1. Start House 100
