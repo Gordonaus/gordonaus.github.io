@@ -1,4 +1,28 @@
-## Welcome to GitHub Pages
+# Project 1: Mapping Newcastle's Innovative & Tech Startup Ecosystem
+
+## Tech Startups
+1. Mobito
+2. Scrubit
+3. Social Pinpoint
+4. SwitchedIn
+5. Elite Robotics
+6. Hackerlinx
+7. Camplify
+8. Evergen
+9. Prefcard
+10. Swimpro
+11. Obelisk System
+12. HDock
+13. BYKKO
+14. itsFound
+15. Employs
+
+## Spaces
+1. Production Hub
+2. INNX
+3. DASH
+5. 
+
 
 You can use the [editor on GitHub](https://github.com/Gordonaus/gordonaus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
