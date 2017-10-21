@@ -29,6 +29,16 @@
 26. Airsight Australia
 27. Deckee
 28. Virtual perspective
+29. Ember
+30. Hurb Urban
+31. Rescuepods
+32. Sansdresso
+33. Smart Guard Tech
+34. Med Tech Pro
+35. Deanne Hobday
+36. Antipodean Medical
+37. Optim Control
+38. iCare24
 
 ## Spaces
 1. Production Hub
