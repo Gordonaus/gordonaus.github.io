@@ -40,6 +40,7 @@
 37. Optim Control
 38. iCare24
 39. Liftango
+40. Stigma Health
 
 ## Meetups and Events
 1. [Lunaticks LIVE](http://www.thelunatickssociety.com.au)
